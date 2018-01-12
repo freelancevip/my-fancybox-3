@@ -1,2 +1,2 @@
-# my-fancybox-3
-Fancybox 3 wordpress plugin
+# My fancybox 3
+Fancybox v3.2.5 wordpress plugin
